@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najeeb Abdurahman Abdi</h1>
-<h3 align="center">AI/ML Student & Engineer from Qatar 🇶🇦 | Building intelligent systems that move the world</h3>
+<h3 align="center">AI/ML Student & Engineer from Qatar | Building intelligent systems that move the world</h3>
 
 - 🚌 I'm currently building **RouteyAI — an AI-powered school bus tracking & routing platform for Qatar and the GCC, using Next.js, Supabase, Mapbox, and a K-Means++ + TSP optimization engine.**
 
