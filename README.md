@@ -15,9 +15,10 @@
 
 - 🤝 I'm looking for help with **scalable API design, MLOps pipelines, and child data privacy compliance (PDPPL/COPPA) for EdTech.**
 
-- 📫 How to reach me: **na2307172@qu.edu.qa**
+- 📫 How to reach me: **najeebabdi75@gmail.com**
 
-- ⚡ Fun fact: **I think I'm funny — but my routing algorithm sometimes disagrees 😅**
+- ⚡ Fun fact: **I like my coffee like I like my IDEs…
+Dark and free**
 
 ---
 
