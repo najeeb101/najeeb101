@@ -3,7 +3,7 @@
 AI/ML Student & Engineer from Qatar 🇶🇦 | Building intelligent systems that move the world
 </h3>
 
-- 🚌 I'm currently building **RouteyAI — an AI-powered school bus tracking & routing platform for Qatar and the GCC, using Next.js, Supabase, Mapbox, and a K-Means++ + TSP optimization engine.**
+- 🚌 I'm currently building **RouteyAI an AI-powered school bus tracking & routing platform for Qatar and the GCC, using Next.js, Supabase, Mapbox, and a K-Means++ + TSP optimization engine.**
 
 - 💼 I'm interning at **Silatha (Amsterdam), developing AI automation workflows with Python, n8n, and the OpenAI API.**
 
