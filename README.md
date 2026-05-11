@@ -15,8 +15,6 @@
 
 - 🔬 I'm exploring research in **bioinformatics/healthcare AI and vision-language models for geospatial applications.**
 
-- 🤝 I'm looking for help with **scalable API design, MLOps pipelines, and child data privacy compliance (PDPPL/COPPA) for EdTech.**
-
 - 📫 How to reach me: **najeebabdi75@gmail.com**
 
 - ⚡ Fun fact: **I like my coffee like I like my IDEs…
