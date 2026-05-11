@@ -83,7 +83,7 @@ Dark and free**
 
 <table><tr>
 <td><a href="https://www.mapbox.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg" alt="Mapbox" width="40" height="40"/></a></td>
-<td><a href="https://n8n.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/N8n-logo-new.svg" alt="n8n" width="40" height="40"/></a></td>
+<td><a href="https://n8n.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" alt="n8n" width="40" height="40"/></a></td>
 <td><a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/></a></td>
 <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a></td>
 <td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a></td>
