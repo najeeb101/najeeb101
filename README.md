@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Najeeb Abdurahman Abdi</h1>
 <h3 align="center">AI/ML Student & Engineer from Qatar | Building intelligent systems that move the world</h3>
+<p align="center"><a href="https://najeeb-abdi.vercel.app"><b>🌐 Portfolio: najeeb-abdi.vercel.app</b></a></p>
 
 - 🧠 I'm currently building **codetutor — an AI coding tutor & auto-grader platform for CS students, with a RAG-based tutor, an eval harness, and an RL data pipeline (GRPO) turning graded attempts into training data.**
 
