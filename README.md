@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Najeeb Abdurahman Abdi</h1>
 <h3 align="center">AI/ML Student & Engineer from Qatar | Building intelligent systems that move the world</h3>
 
-- 🚌 I'm currently building **RouteyAI — an AI-powered school bus tracking & routing platform for Qatar and the GCC, using Next.js, Supabase, Mapbox, and a K-Means++ + TSP optimization engine.**
+- 🧠 I'm currently building **codetutor — an AI coding tutor & auto-grader platform for CS students, with a RAG-based tutor, an eval harness, and an RL data pipeline (GRPO) turning graded attempts into training data.**
 
-- 💼 I'm interning at **Silatha (Amsterdam), developing AI automation workflows with Python, n8n, and the OpenAI API.**
+- 🏆 I built **Thermal Trace — an AI cold-chain / food-security platform (thermal state modeling + shelf-life prediction) — which won the Open Innovation Award at the UN Reboot the Earth Hackathon.**
 
-- 🎓 I'm a **3rd-year Computer Science student at Qatar University**, specializing in AI/ML.
+- 🦾 I'm part of **SDP Group 31 at Qatar University, building VR-controlled robotic arms for surgical assistance** — handling parts sourcing and procurement.
 
-- 🌱 I'm currently deepening my skills in **geospatial AI, real-time systems (WebSockets + Supabase Realtime), FastAPI, PostGIS, and AI model deployment (MLOps).**
+- 🎓 I'm a **senior (4th-year) Computer Science student at Qatar University**, specializing in AI/ML.
 
-- 💡 I recently built an **AI-Driven Contract Analyzer** for automated document parsing and risk detection, and researched **Reinforcement & Federated Learning applied to Aquaponics.**
+- 💼 I completed an internship at **Silatha (Amsterdam)**, building AI automation systems with Python, n8n, and the OpenAI API.
 
-- 👯 I'm looking to collaborate on **AI-powered web apps, route optimization systems, edtech/mobility startups, and ML research projects.**
+- 🌱 I'm currently deepening my skills in **RL/post-training data pipelines, eval harnesses, FastAPI, and AI model deployment (MLOps).**
 
-- 🔬 I'm exploring research in **bioinformatics/healthcare AI and vision-language models for geospatial applications.**
+- 💡 I've also built an **AI-driven contract analyzer** for automated document parsing and risk detection, and researched **federated learning applied to aquaponics.**
+
+- 👯 I'm looking to collaborate on **AI coding/education tools, RL & post-training data pipelines, and applied ML research projects.**
 
 - 📫 How to reach me: **najeebabdi75@gmail.com**
 
