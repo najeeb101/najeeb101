@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Najeeb Abdurahman Abdi</h1>
+<h1 align="center">Najeeb Abdurahman Abdi</h1>
 <h3 align="center">Applied AI Student & Engineer from Qatar | Building intelligent systems that move the world</h3>
 <p align="center">
   <a href="https://najeeb-abdi.vercel.app"><b>🌐 Portfolio</b></a> ·
