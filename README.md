@@ -25,6 +25,29 @@ Dark and free**
 
 ---
 
+### Public repositories:
+
+| Project | Language |
+|---|---|
+| [RouteyAI](https://github.com/najeeb101/RouteyAI) | TypeScript |
+| [Taqriban](https://github.com/najeeb101/Taqriban) | TypeScript |
+| [ArenaFit](https://github.com/najeeb101/ArenaFit) | TypeScript |
+| [Naja7-AI](https://github.com/najeeb101/Naja7-AI) | TypeScript |
+| [VideoNoteExtractor](https://github.com/najeeb101/VideoNoteExtractor) | TypeScript |
+| [myportifolio](https://github.com/najeeb101/myportifolio) | TypeScript |
+| [IEEEQCON2026](https://github.com/najeeb101/IEEEQCON2026) | Astro |
+| [StudentHub](https://github.com/najeeb101/StudentHub) | JavaScript |
+| [Thawani_Resturant](https://github.com/najeeb101/Thawani_Resturant) | JavaScript |
+| [Japanese-game](https://github.com/najeeb101/Japanese-game) | JavaScript |
+| [word-search-game](https://github.com/najeeb101/word-search-game) | JavaScript |
+| [Cyber-Project](https://github.com/najeeb101/Cyber-Project) | HTML |
+| [SnakeGame](https://github.com/najeeb101/SnakeGame) | TypeScript |
+| [Paddle-technique-recognition](https://github.com/najeeb101/Paddle-technique-recognition) | — |
+| [Single-Cohort-Flow-Simulator](https://github.com/najeeb101/Single-Cohort-Flow-Simulator) | Python |
+| [taqriban-backups](https://github.com/najeeb101/taqriban-backups) | — |
+
+---
+
 ### Connect with me:
 
 <table><tr>
