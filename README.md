@@ -16,6 +16,12 @@
 
 - 💡 I've also built an **AI-driven contract analyzer** for automated document parsing and risk detection, and researched **federated learning applied to aquaponics.**
 
+- 🏋️ I built **ArenaFit — live 1v1 fitness battles in the browser, with AI rep counting, an Elo ladder and achievements.**
+
+- 🎬 I built **Lectura (VideoNoteExtractor) — turns YouTube lectures into structured study notes using local Whisper transcription and an LLM.**
+
+- 🎾 I built **Paddle Technique Recognition — pose estimation that compares a padel player's stroke technique against professional players.**
+
 - 👯 I'm looking to collaborate on **AI coding/education tools, RL & post-training data pipelines, and applied ML research projects.**
 
 - 📫 How to reach me: **najeebabdi75@gmail.com**
@@ -27,24 +33,24 @@ Dark and free**
 
 ### Public repositories:
 
-| Project | Language |
-|---|---|
-| [RouteyAI](https://github.com/najeeb101/RouteyAI) | TypeScript |
-| [Taqriban](https://github.com/najeeb101/Taqriban) | TypeScript |
-| [ArenaFit](https://github.com/najeeb101/ArenaFit) | TypeScript |
-| [Naja7-AI](https://github.com/najeeb101/Naja7-AI) | TypeScript |
-| [VideoNoteExtractor](https://github.com/najeeb101/VideoNoteExtractor) | TypeScript |
-| [myportifolio](https://github.com/najeeb101/myportifolio) | TypeScript |
-| [IEEEQCON2026](https://github.com/najeeb101/IEEEQCON2026) | Astro |
-| [StudentHub](https://github.com/najeeb101/StudentHub) | JavaScript |
-| [Thawani_Resturant](https://github.com/najeeb101/Thawani_Resturant) | JavaScript |
-| [Japanese-game](https://github.com/najeeb101/Japanese-game) | JavaScript |
-| [word-search-game](https://github.com/najeeb101/word-search-game) | JavaScript |
-| [Cyber-Project](https://github.com/najeeb101/Cyber-Project) | HTML |
-| [SnakeGame](https://github.com/najeeb101/SnakeGame) | TypeScript |
-| [Paddle-technique-recognition](https://github.com/najeeb101/Paddle-technique-recognition) | — |
-| [Single-Cohort-Flow-Simulator](https://github.com/najeeb101/Single-Cohort-Flow-Simulator) | Python |
-| [taqriban-backups](https://github.com/najeeb101/taqriban-backups) | — |
+| Project | Description | Language |
+|---|---|---|
+| [RouteyAI](https://github.com/najeeb101/RouteyAI) | Smarter school bus routes and live bus tracking for parents | TypeScript |
+| [Taqriban](https://github.com/najeeb101/Taqriban) | Arabic-first daily Fermi-estimation number game | TypeScript |
+| [ArenaFit](https://github.com/najeeb101/ArenaFit) | Live 1v1 browser fitness battles with AI rep counting and an Elo ladder | TypeScript |
+| [Naja7-AI](https://github.com/najeeb101/Naja7-AI) | AI contract analyzer: upload, review and ask questions about a document | TypeScript |
+| [VideoNoteExtractor (Lectura)](https://github.com/najeeb101/VideoNoteExtractor) | Turns YouTube lectures into structured study notes | TypeScript |
+| [myportifolio](https://github.com/najeeb101/myportifolio) | Personal portfolio site | TypeScript |
+| [IEEEQCON2026](https://github.com/najeeb101/IEEEQCON2026) | Website for IEEE Q-Con, a student engineering conference in Qatar | Astro |
+| [StudentHub](https://github.com/najeeb101/StudentHub) | Social media platform for students to connect and share thoughts | JavaScript |
+| [Thawani_Resturant](https://github.com/najeeb101/Thawani_Resturant) | Restaurant project | JavaScript |
+| [Japanese-game](https://github.com/najeeb101/Japanese-game) | Browser-based Japanese gaming quiz (Jeopardy-style) | JavaScript |
+| [word-search-game](https://github.com/najeeb101/word-search-game) | Word search puzzle game with 6 levels | JavaScript |
+| [Cyber-Project](https://github.com/najeeb101/Cyber-Project) | Web application security assessment (CMPS 380) | HTML |
+| [SnakeGame](https://github.com/najeeb101/SnakeGame) | Snake arcade game built with React and Canvas | TypeScript |
+| [Paddle-technique-recognition](https://github.com/najeeb101/Paddle-technique-recognition) | Pose-based analysis of padel stroke technique from video | Python |
+| [Single-Cohort-Flow-Simulator](https://github.com/najeeb101/Single-Cohort-Flow-Simulator) | CS Intake Planner for Qatar University's CS department | Python |
+| [taqriban-backups](https://github.com/najeeb101/taqriban-backups) | Backups for Taqriban | — |
 
 ---
 
