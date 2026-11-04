@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najeeb Abdurahman Abdi</h1>
-<h3 align="center">AI/ML Student & Engineer from Qatar | Building intelligent systems that move the world</h3>
+<h3 align="center">Applied AI Student & Engineer from Qatar | Building intelligent systems that move the world</h3>
 <p align="center">
   <a href="https://najeeb-abdi.vercel.app"><b>🌐 Portfolio</b></a> ·
   <a href="https://linkedin.com/in/najeeb-abdi"><b>LinkedIn</b></a> ·
@@ -10,7 +10,7 @@
 
 ### About me
 
-- 🎓 Senior Computer Science student at **Qatar University**, specializing in AI/ML
+- 🎓 Senior Computer Science student at **Qatar University**, specializing in Applied AI
 - 💼 Former AI automation intern at **Silatha (Amsterdam)**: Python, n8n and the OpenAI API
 - 🦾 Part of **SDP Group 31**, building VR-controlled robotic arms for surgical assistance
 - 🌱 Learning **RL/post-training data pipelines, eval harnesses and MLOps**
