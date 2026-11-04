@@ -31,7 +31,6 @@
 | [Paddle Technique Recognition](https://github.com/najeeb101/Paddle-technique-recognition) | Compares a padel player's strokes to professionals using pose estimation |
 | [CS Intake Planner](https://github.com/najeeb101/Single-Cohort-Flow-Simulator) | Simulates student flow to plan Qatar University CS admissions |
 | [Taqriban](https://github.com/najeeb101/Taqriban) | Arabic-first daily estimation game · [Play](https://taqriban.vercel.app) |
-| [IEEE Q-Con](https://github.com/najeeb101/IEEEQCON2026) | Website for IEEE Q-Con, a student engineering conference in Qatar |
 
 ### Tech stack
 
