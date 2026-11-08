@@ -20,16 +20,14 @@
 
 - 📊 **[CS Intake Planner](https://github.com/najeeb101/Single-Cohort-Flow-Simulator)** (Scale AI internship × Qatar University): simulates every CS student's path through the study plan to decide how many students to admit and how many course seats that needs
 - 🧠 **CodeTutor** (in progress): AI coding tutor and auto-grader for CS students, with a RAG tutor, an eval harness and a GRPO training-data pipeline
-- 🏆 **Thermal Trace**: AI cold-chain platform with shelf-life prediction, winner of the Open Innovation Award at the UN Reboot the Earth Hackathon · [Live demo](https://thermal-trace-gilt.vercel.app) · [Code](https://github.com/Isl-d/Reboot-The-Earth-Cold-Chain-Logistics)
+- 🏆 **Thermal Trace**: AI cold-chain platform with shelf-life prediction, winner of the Open Innovation Award at the UN Reboot the Earth Hackathon · [Website](https://thermal-trace-gilt.vercel.app) · [Command center demo](https://thermal-trace-demo.vercel.app) · [Code](https://github.com/Isl-d/Reboot-The-Earth-Cold-Chain-Logistics)
 
 ### Featured projects
 
 | Project | What it does |
 |---|---|
 | [RouteyAI](https://github.com/najeeb101/RouteyAI) | Smarter school bus routes and live bus tracking for parents · [Live](https://routeyai.vercel.app) |
-| [ArenaFit](https://github.com/najeeb101/ArenaFit) | Live 1v1 fitness battles in the browser with AI rep counting |
 | [Lectura](https://github.com/najeeb101/VideoNoteExtractor) | Turns YouTube lectures into structured study notes |
-| [Naja7 AI](https://github.com/najeeb101/Naja7-AI) | AI contract analyzer: upload a contract, get a review, ask questions |
 | [Paddle Technique Recognition](https://github.com/najeeb101/Paddle-technique-recognition) | Compares a padel player's strokes to professionals using pose estimation |
 | [Taqriban](https://github.com/najeeb101/Taqriban) | Arabic-first daily estimation game · [Play](https://taqriban.vercel.app) |
 
