@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://najeeb-abdi.vercel.app"><b>🌐 Portfolio</b></a> ·
   <a href="https://linkedin.com/in/najeeb-abdi"><b>LinkedIn</b></a> ·
-  <a href="https://dev.to/najeeb101"><b>Dev.to</b></a> ·
   <a href="https://instagram.com/najeeb.oxo"><b>Instagram</b></a> ·
   <a href="mailto:najeebabdi75@gmail.com"><b>Email</b></a>
 </p>
