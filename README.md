@@ -1,5 +1,5 @@
 <h1 align="center">Najeeb Abdurahman Abdi</h1>
-<h3 align="center">Applied AI · CS @ Qatar University · RAG, evals and RL data pipelines</h3>
+<h3 align="center">Applied AI · CS @ Qatar University</h3>
 <p align="center">
   <a href="https://najeeb-abdi.vercel.app"><b>🌐 Portfolio</b></a> ·
   <a href="https://linkedin.com/in/najeeb-abdi"><b>LinkedIn</b></a> ·
