@@ -19,7 +19,7 @@
 
 - 📊 **[CS Intake Planner](https://github.com/najeeb101/Single-Cohort-Flow-Simulator)** (Scale AI internship × Qatar University): simulates every CS student's path through the study plan to decide how many students to admit and how many course seats that needs
 - 🧠 **CodeTutor** (in progress): AI coding tutor and auto-grader for CS students, with a RAG tutor, an eval harness and a GRPO training-data pipeline
-- 🏆 **Thermal Trace**: AI cold-chain platform with shelf-life prediction, winner of the Open Innovation Award at the UN Reboot the Earth Hackathon · [Website](https://thermal-trace-gilt.vercel.app) · [Command center demo](https://thermal-trace-demo.vercel.app) · [Code](https://github.com/Isl-d/Reboot-The-Earth-Cold-Chain-Logistics)
+- 🏆 **Thermal Trace**: AI cold-chain platform with shelf-life prediction, winner of the Open Innovation Award at the UN Reboot the Earth Hackathon · [Website](https://thermal-trace-gilt.vercel.app)
 
 ### Featured projects
 
